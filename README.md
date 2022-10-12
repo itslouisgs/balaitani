@@ -3,7 +3,7 @@
 # BalaiTani
 **BalaiTani** (roughly translated from Indonesian as *farmers' hall*) is an e-commerce web app designed as a platform for connecting small farmers to buyers directly to avoid middlemen from inflating the retail costs. 
 
-This project was built with Bootstrap and Laravel and was created for the Software Engineering course’s final project by <a href="https://github.com/beni2704" target="_blank">Beni</a>, <a href="https://github.com/je-von" target="_blank">Jevon</a>, and <a href="https://github.com/itslouisgs" target="_blank">Louis</a>.
+This project was built with [Bootstrap](https://getbootstrap.com) and [Laravel](https://laravel.com/) and was created for the Software Engineering course’s final project by <a href="https://github.com/beni2704" target="_blank">Beni</a>, <a href="https://github.com/je-von" target="_blank">Jevon</a>, and <a href="https://github.com/itslouisgs" target="_blank">Louis</a>.
 
 ![BalaiTani](preview.png)
 
