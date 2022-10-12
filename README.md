@@ -5,6 +5,8 @@
 
 This project was built with [Bootstrap](https://getbootstrap.com) and [Laravel](https://laravel.com/) and was created for the Software Engineering course’s final project by <a href="https://github.com/beni2704" target="_blank">Beni</a>, <a href="https://github.com/je-von" target="_blank">Jevon</a>, and <a href="https://github.com/itslouisgs" target="_blank">Louis</a>.
 
+[Visit the web app here](http://balaitani.herokuapp.com/)
+
 ![BalaiTani](preview.png)
 
 ## The problem
